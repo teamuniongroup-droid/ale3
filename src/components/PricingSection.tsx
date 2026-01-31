@@ -57,7 +57,7 @@ const PricingSection = () => {
                 <p className="text-sm text-foreground mb-3 animate-glow-pulse">+ÜBERRASCHUNG 🎁</p>
 
                 <a 
-                  href="https://www.checkout-ds24.com/product/638002/?aff=uniongroup" 
+                  href="https://www.checkout-ds24.com/product/638002/?aff=uniongroup&cam=3" 
                   className="buy-button-green"
                 >
                   IN DEN WARENKORB
@@ -118,7 +118,7 @@ const PricingSection = () => {
                 </div>
 
                 <a 
-                  href="https://www.checkout-ds24.com/product/638001/?aff=uniongroup" 
+                  href="https://www.checkout-ds24.com/product/638001/?aff=uniongroup&cam=3" 
                   className="buy-button-blue"
                 >
                   IN DEN WARENKORB
@@ -175,7 +175,7 @@ const PricingSection = () => {
                 </div>
 
                 <a 
-                  href="https://www.checkout-ds24.com/product/638004/?aff=uniongroup" 
+                  href="https://www.checkout-ds24.com/product/638004/?aff=uniongroup&cam=3" 
                   className="buy-button-blue"
                 >
                   IN DEN WARENKORB
